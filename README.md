@@ -1,3 +1,3 @@
 - Undergraduate Computer Science student at Santa Clara University, focusing on software and security. 
 - Languages: C++, C, Java, and Python
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/trishaganesh/)
+- How to reach me: [LinkedIn](https://www.linkedin.com/in/trishaganesh/)
